@@ -6,7 +6,7 @@ import fs from "fs"
 /**Owner number**/
 global.owner = [
   ["994408465157", "AryGamz", true],
-  ["6281278368278", "Botnya", true]
+  ["628127836828", "Botnya", true]
 ]
   // [number, name, dia developer?]
   // Put your number here
